@@ -26,8 +26,36 @@
     "chapters": [
         {
             "id": 1,
+            "mangaId": 1,
             "number": 1,
-            "images": []
+            "images": [
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_001.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_002.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_003.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_004.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_005.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_006.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_007.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_008.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_009.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_010.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_011.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_012.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_013.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_014.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_015.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_016.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_017.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_018.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_019.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_020.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_021.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_022.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_023.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_024.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_025.jpg",
+                "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/FerreiraRaphael/manga-db/master/mangas/content/so_color_v01_026.jpg"
+            ]
         }
     ]
 }

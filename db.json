@@ -11,7 +11,10 @@
                 "shounen"
             ],
             "autorId": 1,
-            "alternativeNames": ["JoJo's Bizarre Adventure Part 6: Stone Ocean", "ジョジョの奇妙な冒険 ストーンオーシャン"]
+            "alternativeNames": [
+                "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+                "ジョジョの奇妙な冒険 ストーンオーシャン"
+            ]
         }
     ],
     "authors": [
@@ -24,9 +27,10 @@
         {
             "id": 1,
             "number": 1,
-            "images": [
-                
-            ]
+            "images": []
         }
-    ]
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }

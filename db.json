@@ -1,0 +1,32 @@
+{
+    "mangas": [
+        {
+            "id": 1,
+            "slug": "jo_jo_no_kimyou_na_bouken_part_6_stone_ocean_colorida",
+            "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean (Colorida)",
+            "description": "A sexta parte de JoJo's Bizarre Adventure é protagonizado pela primeira vez por uma mulher, Jolyne Kujo filha de Jotaro Kujo. Ela é presa acusada de um assassinato e acaba na Green Dolphin Street Prison. Ela recebe um amuleto que herdou de seu pai, que corta sua mão e desbloqueia a sua capacidade de stand, o Stone Free, que lhe permite transformar seu corpo em uma corda viva. A corda pode formar um stand humanoide no espaço de 2 metros perto de seu corpo, e pode ampliar ainda mais em formato de corda. Na prisão, ela logo se torna aliada de inquietos companheiros presos e usuários de Stand's, Hermes (Kiss) e Guess (Goo Goo Dolls)...",
+            "categories": [
+                "ação",
+                "aventura",
+                "shounen"
+            ],
+            "autorId": 1,
+            "alternativeNames": ["JoJo's Bizarre Adventure Part 6: Stone Ocean", "ジョジョの奇妙な冒険 ストーンオーシャン"]
+        }
+    ],
+    "authors": [
+        {
+            "id": 1,
+            "name": "Araki, Hirohiko"
+        }
+    ],
+    "chapters": [
+        {
+            "id": 1,
+            "number": 1,
+            "images": [
+                
+            ]
+        }
+    ]
+}
